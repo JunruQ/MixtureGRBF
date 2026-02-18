@@ -1,0 +1,17 @@
+function Y = sample_categorical(pis, L)
+%SAMPLE_CATEGORICAL Summary of this function goes here
+%   Detailed explanation goes here
+% Input:
+%   pis - N x K matrix containing the probabilities
+%   L - scalar indicating samples for each data point
+% Output:
+%   Y - N x L matrix containing the samples in {1,...,K}
+[N,K] = size(pis);
+A = cumsum(pis, 2);
+A1(:,1,:) = A;
+A1 = repmat(A1, [1,L,1]);
+
+X = repmat(rand(N, L), [1,1,K]);
+Y = sum(X > A1, 3) + 1;
+end
+
