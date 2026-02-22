@@ -12,7 +12,7 @@ def subtype_order_map(df, exp_name, nsubtype=5):
     返回:
     DataFrame: 更新后的DataFrame，包含新的亚型顺序列。
     """
-    subtype_order_file = f'output/survival_analysis/{exp_name}/{nsubtype}_subtypes/all_cause_mortality_order.csv'
+    subtype_order_file = f'output/result_analysis/{exp_name}/{nsubtype}_subtypes/all_cause_mortality_order.csv'
     
     try:
         subtype_order_df = pd.read_csv(subtype_order_file, header=None)

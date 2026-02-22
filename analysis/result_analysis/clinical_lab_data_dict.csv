@@ -1,0 +1,62 @@
+﻿Field ID,Abbreviation,Category
+30100,MPV,Blood platelets
+30090,PCT,Blood platelets
+30110,PDW,Blood platelets
+30080,PLT,Blood platelets
+30740,Glucose,Metabolic Indicators
+30750,HbA1c,Metabolic Indicators
+30630,Apo-A,Metabolic Indicators
+30640,Apo-B,Metabolic Indicators
+30690,Cholesterol,Metabolic Indicators
+30760,HDL-C,Metabolic Indicators
+30780,LDL-C,Metabolic Indicators
+30790,Lp(a),Metabolic Indicators
+30870,Triglycerides,Metabolic Indicators
+30710,CRP,Immune function
+30160,BASO-C,Immune function
+30220,BASO-P,Immune function
+30150,EOS-C,Immune function
+30210,EOS-P,Immune function
+30120,LYMP-C,Immune function
+30180,LYMP-P,Immune function
+30130,MONO-C,Immune function
+30190,MONO-P,Immune function
+30140,NEUT-C,Immune function
+30200,NEUT-P,Immune function
+30000,WBC,Immune function
+30820,Rheumatoid factor ,Immune function
+30660,Direct bilirubin,Liver function
+30610,ALP,Liver function
+30620,ALT,Liver function
+30650,AST,Liver function
+30730,GGT,Liver function
+30840,Total bilirubin,Liver function
+30600,Albumin,Liver function
+30860,Total protein,Liver function
+30020,Hb,Red blood cell
+30030,Hct,Red blood cell
+30050,MCH,Red blood cell
+30040,MCV,Red blood cell
+30060,MHCH,Red blood cell
+30170,NRBC-C,Red blood cell
+30230,NRBC-P,Red blood cell
+30010,RBC,Red blood cell
+30070,RDW,Red blood cell
+30700,Creatinine,Renal function
+30720,Cystatin C,Renal function
+30670,Urea,Renal function
+30880,Urate,Renal function
+30300,HLR-C,Bone Marrow Hematopoietic Function
+30290,HLR-P,Bone Marrow Hematopoietic Function
+30280,IRF,Bone Marrow Hematopoietic Function
+30260,MRV,Bone Marrow Hematopoietic Function
+30270,MSCV,Bone Marrow Hematopoietic Function
+30250,RET-C,Bone Marrow Hematopoietic Function
+30240,RET-P,Bone Marrow Hematopoietic Function
+30800,Oestradiol,Sex hormone
+30830,SHBG,Sex hormone
+30850,Testosterone,Sex hormone
+30770,IGF-1,Others
+30810,Phosphate,Others
+30890,Vitamin D,Others
+30680,Calcium,Others

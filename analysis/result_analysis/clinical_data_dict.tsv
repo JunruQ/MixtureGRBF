@@ -1,0 +1,454 @@
+Field ID	Description	Category
+30620	Alanine aminotransferase	Blood biochemistry  
+30600	Albumin	Blood biochemistry  
+30610	Alkaline phosphatase	Blood biochemistry  
+30630	Apolipoprotein A	Blood biochemistry  
+30640	Apolipoprotein B	Blood biochemistry  
+30650	Aspartate aminotransferase	Blood biochemistry  
+30710	C-reactive protein	Blood biochemistry  
+30680	Calcium	Blood biochemistry  
+30690	Cholesterol	Blood biochemistry  
+30700	Creatinine	Blood biochemistry  
+30720	Cystatin C	Blood biochemistry  
+30660	Direct bilirubin	Blood biochemistry  
+30730	Gamma glutamyltransferase	Blood biochemistry  
+30740	Glucose	Blood biochemistry  
+30750	Glycated haemoglobin (HbA1c)	Blood biochemistry  
+30760	HDL cholesterol	Blood biochemistry  
+30770	IGF-1	Blood biochemistry  
+30780	LDL direct	Blood biochemistry  
+30790	Lipoprotein A	Blood biochemistry  
+30800	Oestradiol	Blood biochemistry  
+30810	Phosphate	Blood biochemistry  
+30820	Rheumatoid factor	Blood biochemistry  
+30830	SHBG	Blood biochemistry  
+30850	Testosterone	Blood biochemistry  
+30840	Total bilirubin	Blood biochemistry  
+30860	Total protein	Blood biochemistry  
+30870	Triglycerides	Blood biochemistry  
+30880	Urate	Blood biochemistry  
+30670	Urea	Blood biochemistry  
+30890	Vitamin D	Blood biochemistry  
+30622	Alanine aminotransferase aliquot	Blood biochemistry processing  
+30621	Alanine aminotransferase assay date	Blood biochemistry processing  
+30623	Alanine aminotransferase correction level	Blood biochemistry processing  
+30624	Alanine aminotransferase correction reason	Blood biochemistry processing  
+30625	Alanine aminotransferase missing reason	Blood biochemistry processing  
+30626	Alanine aminotransferase reportability	Blood biochemistry processing  
+30602	Albumin aliquot	Blood biochemistry processing  
+30601	Albumin assay date	Blood biochemistry processing  
+30603	Albumin correction level	Blood biochemistry processing  
+30604	Albumin correction reason	Blood biochemistry processing  
+30605	Albumin missing reason	Blood biochemistry processing  
+30606	Albumin reportability	Blood biochemistry processing  
+30612	Alkaline phosphatase aliquot	Blood biochemistry processing  
+30611	Alkaline phosphatase assay date	Blood biochemistry processing  
+30613	Alkaline phosphatase correction level	Blood biochemistry processing  
+30614	Alkaline phosphatase correction reason	Blood biochemistry processing  
+30615	Alkaline phosphatase missing reason	Blood biochemistry processing  
+30616	Alkaline phosphatase reportability	Blood biochemistry processing  
+30632	Apolipoprotein A aliquot	Blood biochemistry processing  
+30631	Apolipoprotein A assay date	Blood biochemistry processing  
+30633	Apolipoprotein A correction level	Blood biochemistry processing  
+30634	Apolipoprotein A correction reason	Blood biochemistry processing  
+30635	Apolipoprotein A missing reason	Blood biochemistry processing  
+30636	Apolipoprotein A reportability	Blood biochemistry processing  
+30642	Apolipoprotein B aliquot	Blood biochemistry processing  
+30641	Apolipoprotein B assay date	Blood biochemistry processing  
+30643	Apolipoprotein B correction level	Blood biochemistry processing  
+30644	Apolipoprotein B correction reason	Blood biochemistry processing  
+30645	Apolipoprotein B missing reason	Blood biochemistry processing  
+30646	Apolipoprotein B reportability	Blood biochemistry processing  
+30652	Aspartate aminotransferase aliquot	Blood biochemistry processing  
+30651	Aspartate aminotransferase assay date	Blood biochemistry processing  
+30653	Aspartate aminotransferase correction level	Blood biochemistry processing  
+30654	Aspartate aminotransferase correction reason	Blood biochemistry processing  
+30655	Aspartate aminotransferase missing reason	Blood biochemistry processing  
+30656	Aspartate aminotransferase reportability	Blood biochemistry processing  
+30712	C-reactive protein aliquot	Blood biochemistry processing  
+30711	C-reactive protein assay date	Blood biochemistry processing  
+30713	C-reactive protein correction level	Blood biochemistry processing  
+30714	C-reactive protein correction reason	Blood biochemistry processing  
+30715	C-reactive protein missing reason	Blood biochemistry processing  
+30716	C-reactive protein reportability	Blood biochemistry processing  
+30682	Calcium aliquot	Blood biochemistry processing  
+30681	Calcium assay date	Blood biochemistry processing  
+30683	Calcium correction level	Blood biochemistry processing  
+30684	Calcium correction reason	Blood biochemistry processing  
+30685	Calcium missing reason	Blood biochemistry processing  
+30686	Calcium reportability	Blood biochemistry processing  
+30692	Cholesterol aliquot	Blood biochemistry processing  
+30691	Cholesterol assay date	Blood biochemistry processing  
+30693	Cholesterol correction level	Blood biochemistry processing  
+30694	Cholesterol correction reason	Blood biochemistry processing  
+30695	Cholesterol missing reason	Blood biochemistry processing  
+30696	Cholesterol reportability	Blood biochemistry processing  
+30702	Creatinine aliquot	Blood biochemistry processing  
+30701	Creatinine assay date	Blood biochemistry processing  
+30703	Creatinine correction level	Blood biochemistry processing  
+30704	Creatinine correction reason	Blood biochemistry processing  
+30705	Creatinine missing reason	Blood biochemistry processing  
+30706	Creatinine reportability	Blood biochemistry processing  
+30722	Cystatin C aliquot	Blood biochemistry processing  
+30721	Cystatin C assay date	Blood biochemistry processing  
+30723	Cystatin C correction level	Blood biochemistry processing  
+30724	Cystatin C correction reason	Blood biochemistry processing  
+30725	Cystatin C missing reason	Blood biochemistry processing  
+30726	Cystatin C reportability	Blood biochemistry processing  
+30662	Direct bilirubin aliquot	Blood biochemistry processing  
+30661	Direct bilirubin assay date	Blood biochemistry processing  
+30663	Direct bilirubin correction level	Blood biochemistry processing  
+30664	Direct bilirubin correction reason	Blood biochemistry processing  
+30665	Direct bilirubin missing reason	Blood biochemistry processing  
+30666	Direct bilirubin reportability	Blood biochemistry processing  
+30897	Estimated sample dilution factor	Blood biochemistry processing  
+30732	Gamma glutamyltransferase aliquot	Blood biochemistry processing  
+30731	Gamma glutamyltransferase assay date	Blood biochemistry processing  
+30733	Gamma glutamyltransferase correction level	Blood biochemistry processing  
+30734	Gamma glutamyltransferase correction reason	Blood biochemistry processing  
+30735	Gamma glutamyltransferase missing reason	Blood biochemistry processing  
+30736	Gamma glutamyltransferase reportability	Blood biochemistry processing  
+30742	Glucose aliquot	Blood biochemistry processing  
+30741	Glucose assay date	Blood biochemistry processing  
+30743	Glucose correction level	Blood biochemistry processing  
+30744	Glucose correction reason	Blood biochemistry processing  
+30745	Glucose missing reason	Blood biochemistry processing  
+30746	Glucose reportability	Blood biochemistry processing  
+30751	Glycated haemoglobin (HbA1c) assay date	Blood biochemistry processing  
+30753	Glycated haemoglobin (HbA1c) correction level	Blood biochemistry processing  
+30754	Glycated haemoglobin (HbA1c) correction reason	Blood biochemistry processing  
+30755	Glycated haemoglobin (HbA1c) missing reason	Blood biochemistry processing  
+30756	Glycated haemoglobin (HbA1c) reportability	Blood biochemistry processing  
+30762	HDL cholesterol aliquot	Blood biochemistry processing  
+30761	HDL cholesterol assay date	Blood biochemistry processing  
+30763	HDL cholesterol correction level	Blood biochemistry processing  
+30764	HDL cholesterol correction reason	Blood biochemistry processing  
+30765	HDL cholesterol missing reason	Blood biochemistry processing  
+30766	HDL cholesterol reportability	Blood biochemistry processing  
+30772	IGF-1 aliquot	Blood biochemistry processing  
+30771	IGF-1 assay date	Blood biochemistry processing  
+30773	IGF-1 correction level	Blood biochemistry processing  
+30774	IGF-1 correction reason	Blood biochemistry processing  
+30775	IGF-1 missing reason	Blood biochemistry processing  
+30776	IGF-1 reportability	Blood biochemistry processing  
+30782	LDL direct aliquot	Blood biochemistry processing  
+30781	LDL direct assay date	Blood biochemistry processing  
+30783	LDL direct correction level	Blood biochemistry processing  
+30784	LDL direct correction reason	Blood biochemistry processing  
+30785	LDL direct missing reason	Blood biochemistry processing  
+30786	LDL direct reportability	Blood biochemistry processing  
+30792	Lipoprotein A aliquot	Blood biochemistry processing  
+30791	Lipoprotein A assay date	Blood biochemistry processing  
+30793	Lipoprotein A correction level	Blood biochemistry processing  
+30794	Lipoprotein A correction reason	Blood biochemistry processing  
+30795	Lipoprotein A missing reason	Blood biochemistry processing  
+30796	Lipoprotein A reportability	Blood biochemistry processing  
+30802	Oestradiol aliquot	Blood biochemistry processing  
+30801	Oestradiol assay date	Blood biochemistry processing  
+30803	Oestradiol correction level	Blood biochemistry processing  
+30804	Oestradiol correction reason	Blood biochemistry processing  
+30805	Oestradiol missing reason	Blood biochemistry processing  
+30806	Oestradiol reportability	Blood biochemistry processing  
+30812	Phosphate aliquot	Blood biochemistry processing  
+30811	Phosphate assay date	Blood biochemistry processing  
+30813	Phosphate correction level	Blood biochemistry processing  
+30814	Phosphate correction reason	Blood biochemistry processing  
+30815	Phosphate missing reason	Blood biochemistry processing  
+30816	Phosphate reportability	Blood biochemistry processing  
+30822	Rheumatoid factor aliquot	Blood biochemistry processing  
+30821	Rheumatoid factor assay date	Blood biochemistry processing  
+30823	Rheumatoid factor correction level	Blood biochemistry processing  
+30824	Rheumatoid factor correction reason	Blood biochemistry processing  
+30825	Rheumatoid factor missing reason	Blood biochemistry processing  
+30826	Rheumatoid factor reportability	Blood biochemistry processing  
+30832	SHBG aliquot	Blood biochemistry processing  
+30831	SHBG assay date	Blood biochemistry processing  
+30833	SHBG correction level	Blood biochemistry processing  
+30834	SHBG correction reason	Blood biochemistry processing  
+30835	SHBG missing reason	Blood biochemistry processing  
+30836	SHBG reportability	Blood biochemistry processing  
+30852	Testosterone aliquot	Blood biochemistry processing  
+30851	Testosterone assay date	Blood biochemistry processing  
+30853	Testosterone correction level	Blood biochemistry processing  
+30854	Testosterone correction reason	Blood biochemistry processing  
+30855	Testosterone missing reason	Blood biochemistry processing  
+30856	Testosterone reportability	Blood biochemistry processing  
+30842	Total bilirubin aliquot	Blood biochemistry processing  
+30841	Total bilirubin assay date	Blood biochemistry processing  
+30843	Total bilirubin correction level	Blood biochemistry processing  
+30844	Total bilirubin correction reason	Blood biochemistry processing  
+30845	Total bilirubin missing reason	Blood biochemistry processing  
+30846	Total bilirubin reportability	Blood biochemistry processing  
+30862	Total protein aliquot	Blood biochemistry processing  
+30861	Total protein assay date	Blood biochemistry processing  
+30863	Total protein correction level	Blood biochemistry processing  
+30864	Total protein correction reason	Blood biochemistry processing  
+30865	Total protein missing reason	Blood biochemistry processing  
+30866	Total protein reportability	Blood biochemistry processing  
+30872	Triglycerides aliquot	Blood biochemistry processing  
+30871	Triglycerides assay date	Blood biochemistry processing  
+30873	Triglycerides correction level	Blood biochemistry processing  
+30874	Triglycerides correction reason	Blood biochemistry processing  
+30875	Triglycerides missing reason	Blood biochemistry processing  
+30876	Triglycerides reportability	Blood biochemistry processing  
+30882	Urate aliquot	Blood biochemistry processing  
+30881	Urate assay date	Blood biochemistry processing  
+30883	Urate correction level	Blood biochemistry processing  
+30884	Urate correction reason	Blood biochemistry processing  
+30885	Urate missing reason	Blood biochemistry processing  
+30886	Urate reportability	Blood biochemistry processing  
+30672	Urea aliquot	Blood biochemistry processing  
+30671	Urea assay date	Blood biochemistry processing  
+30673	Urea correction level	Blood biochemistry processing  
+30674	Urea correction reason	Blood biochemistry processing  
+30675	Urea missing reason	Blood biochemistry processing  
+30676	Urea reportability	Blood biochemistry processing  
+30892	Vitamin D aliquot	Blood biochemistry processing  
+30891	Vitamin D assay date	Blood biochemistry processing  
+30893	Vitamin D correction level	Blood biochemistry processing  
+30894	Vitamin D correction reason	Blood biochemistry processing  
+30895	Vitamin D missing reason	Blood biochemistry processing  
+30896	Vitamin D reportability	Blood biochemistry processing  
+30160	Basophill count	Blood count  
+30220	Basophill percentage	Blood count  
+30150	Eosinophill count	Blood count  
+30210	Eosinophill percentage	Blood count  
+30030	Haematocrit percentage	Blood count  
+30020	Haemoglobin concentration	Blood count  
+30300	High light scatter reticulocyte count	Blood count  
+30290	High light scatter reticulocyte percentage	Blood count  
+30280	Immature reticulocyte fraction	Blood count  
+30120	Lymphocyte count	Blood count  
+30180	Lymphocyte percentage	Blood count  
+30050	Mean corpuscular haemoglobin	Blood count  
+30060	Mean corpuscular haemoglobin concentration	Blood count  
+30040	Mean corpuscular volume	Blood count  
+30100	Mean platelet (thrombocyte) volume	Blood count  
+30260	Mean reticulocyte volume	Blood count  
+30270	Mean sphered cell volume	Blood count  
+30130	Monocyte count	Blood count  
+30190	Monocyte percentage	Blood count  
+30140	Neutrophill count	Blood count  
+30200	Neutrophill percentage	Blood count  
+30170	Nucleated red blood cell count	Blood count  
+30230	Nucleated red blood cell percentage	Blood count  
+30080	Platelet count	Blood count  
+30090	Platelet crit	Blood count  
+30110	Platelet distribution width	Blood count  
+30010	Red blood cell (erythrocyte) count	Blood count  
+30070	Red blood cell (erythrocyte) distribution width	Blood count  
+30250	Reticulocyte count	Blood count  
+30240	Reticulocyte percentage	Blood count  
+30000	White blood cell (leukocyte) count	Blood count  
+30164	Basophill count acquisition route	Blood count processing  
+30162	Basophill count acquisition time	Blood count processing  
+30163	Basophill count device ID	Blood count processing  
+30161	Basophill count freeze-thaw cycles	Blood count processing  
+30224	Basophill percentage acquisition route	Blood count processing  
+30222	Basophill percentage acquisition time	Blood count processing  
+30223	Basophill percentage device ID	Blood count processing  
+30221	Basophill percentage freeze-thaw cycles	Blood count processing  
+30154	Eosinophill count acquisition route	Blood count processing  
+30152	Eosinophill count acquisition time	Blood count processing  
+30153	Eosinophill count device ID	Blood count processing  
+30151	Eosinophill count freeze-thaw cycles	Blood count processing  
+30214	Eosinophill percentage acquisition route	Blood count processing  
+30212	Eosinophill percentage acquisition time	Blood count processing  
+30213	Eosinophill percentage device ID	Blood count processing  
+30211	Eosinophill percentage freeze-thaw cycles	Blood count processing  
+30032	Haematocrit acquisition time	Blood count processing  
+30031	Haematocrit freeze-thaw cycles	Blood count processing  
+30034	Haematocrit percentage acquisition route	Blood count processing  
+30033	Haematocrit percentage device ID	Blood count processing  
+30024	Haemoglobin concentration acquisition route	Blood count processing  
+30022	Haemoglobin concentration acquisition time	Blood count processing  
+30023	Haemoglobin concentration device ID	Blood count processing  
+30021	Haemoglobin concentration freeze-thaw cycles	Blood count processing  
+30304	High light scatter reticulocyte count acquisition route	Blood count processing  
+30302	High light scatter reticulocyte count acquisition time	Blood count processing  
+30303	High light scatter reticulocyte count device ID	Blood count processing  
+30301	High light scatter reticulocyte count freeze-thaw cycles	Blood count processing  
+30294	High light scatter reticulocyte percentage acquisition route	Blood count processing  
+30292	High light scatter reticulocyte percentage acquisition time	Blood count processing  
+30293	High light scatter reticulocyte percentage device ID	Blood count processing  
+30291	High light scatter reticulocyte percentage freeze-thaw cycles	Blood count processing  
+30284	Immature reticulocyte fraction acquisition route	Blood count processing  
+30282	Immature reticulocyte fraction acquisition time	Blood count processing  
+30283	Immature reticulocyte fraction device ID	Blood count processing  
+30281	Immature reticulocyte fraction freeze-thaw cycles	Blood count processing  
+30124	Lymphocyte count acquisition route	Blood count processing  
+30122	Lymphocyte count acquisition time	Blood count processing  
+30123	Lymphocyte count device ID	Blood count processing  
+30121	Lymphocyte count freeze-thaw cycles	Blood count processing  
+30184	Lymphocyte percentage acquisition route	Blood count processing  
+30182	Lymphocyte percentage acquisition time	Blood count processing  
+30183	Lymphocyte percentage device ID	Blood count processing  
+30181	Lymphocyte percentage freeze-thaw cycles	Blood count processing  
+30054	Mean corpuscular haemoglobin acquisition route	Blood count processing  
+30052	Mean corpuscular haemoglobin acquisition time	Blood count processing  
+30064	Mean corpuscular haemoglobin concentration acquisition route	Blood count processing  
+30062	Mean corpuscular haemoglobin concentration acquisition time	Blood count processing  
+30063	Mean corpuscular haemoglobin concentration device ID	Blood count processing  
+30061	Mean corpuscular haemoglobin concentration freeze-thaw cycles	Blood count processing  
+30053	Mean corpuscular haemoglobin device ID	Blood count processing  
+30051	Mean corpuscular haemoglobin freeze-thaw cycles	Blood count processing  
+30044	Mean corpuscular volume acquisition route	Blood count processing  
+30042	Mean corpuscular volume acquisition time	Blood count processing  
+30043	Mean corpuscular volume device ID	Blood count processing  
+30041	Mean corpuscular volume freeze-thaw cycles	Blood count processing  
+30104	Mean platelet (thrombocyte) volume acquisition route	Blood count processing  
+30102	Mean platelet (thrombocyte) volume acquisition time	Blood count processing  
+30103	Mean platelet (thrombocyte) volume device ID	Blood count processing  
+30101	Mean platelet (thrombocyte) volume freeze-thaw cycles	Blood count processing  
+30264	Mean reticulocyte volume acquisition route	Blood count processing  
+30262	Mean reticulocyte volume acquisition time	Blood count processing  
+30263	Mean reticulocyte volume device ID	Blood count processing  
+30261	Mean reticulocyte volume freeze-thaw cycles	Blood count processing  
+30274	Mean sphered cell volume acquisition route	Blood count processing  
+30272	Mean sphered cell volume acquisition time	Blood count processing  
+30273	Mean sphered cell volume device ID	Blood count processing  
+30271	Mean sphered cell volume freeze-thaw cycles	Blood count processing  
+30134	Monocyte count acquisition route	Blood count processing  
+30132	Monocyte count acquisition time	Blood count processing  
+30133	Monocyte count device ID	Blood count processing  
+30131	Monocyte count freeze-thaw cycles	Blood count processing  
+30194	Monocyte percentage acquisition route	Blood count processing  
+30192	Monocyte percentage acquisition time	Blood count processing  
+30193	Monocyte percentage device ID	Blood count processing  
+30191	Monocyte percentage freeze-thaw cycles	Blood count processing  
+30144	Neutrophill count acquisition route	Blood count processing  
+30142	Neutrophill count acquisition time	Blood count processing  
+30143	Neutrophill count device ID	Blood count processing  
+30141	Neutrophill count freeze-thaw cycles	Blood count processing  
+30204	Neutrophill percentage acquisition route	Blood count processing  
+30202	Neutrophill percentage acquisition time	Blood count processing  
+30203	Neutrophill percentage device ID	Blood count processing  
+30201	Neutrophill percentage freeze-thaw cycles	Blood count processing  
+30174	Nucleated red blood cell count acquisition route	Blood count processing  
+30172	Nucleated red blood cell count acquisition time	Blood count processing  
+30173	Nucleated red blood cell count device ID	Blood count processing  
+30171	Nucleated red blood cell count freeze-thaw cycles	Blood count processing  
+30234	Nucleated red blood cell percentage acquisition route	Blood count processing  
+30232	Nucleated red blood cell percentage acquisition time	Blood count processing  
+30233	Nucleated red blood cell percentage device ID	Blood count processing  
+30231	Nucleated red blood cell percentage freeze-thaw cycles	Blood count processing  
+30084	Platelet count acquisition route	Blood count processing  
+30082	Platelet count acquisition time	Blood count processing  
+30083	Platelet count device ID	Blood count processing  
+30081	Platelet count freeze-thaw cycles	Blood count processing  
+30094	Platelet crit acquisition route	Blood count processing  
+30092	Platelet crit acquisition time	Blood count processing  
+30093	Platelet crit device ID	Blood count processing  
+30091	Platelet crit freeze-thaw cycles	Blood count processing  
+30114	Platelet distribution width acquisition route	Blood count processing  
+30112	Platelet distribution width acquisition time	Blood count processing  
+30113	Platelet distribution width device ID	Blood count processing  
+30111	Platelet distribution width freeze-thaw cycles	Blood count processing  
+30014	Red blood cell (erythrocyte) count acquisition route	Blood count processing  
+30012	Red blood cell (erythrocyte) count acquisition time	Blood count processing  
+30013	Red blood cell (erythrocyte) count device ID	Blood count processing  
+30011	Red blood cell (erythrocyte) count freeze-thaw cycles	Blood count processing  
+30074	Red blood cell (erythrocyte) distribution width acquisition route	Blood count processing  
+30072	Red blood cell (erythrocyte) distribution width acquisition time	Blood count processing  
+30073	Red blood cell (erythrocyte) distribution width device ID	Blood count processing  
+30071	Red blood cell (erythrocyte) distribution width freeze-thaw cycles	Blood count processing  
+30254	Reticulocyte count acquisition route	Blood count processing  
+30252	Reticulocyte count acquisition time	Blood count processing  
+30253	Reticulocyte count device ID	Blood count processing  
+30251	Reticulocyte count freeze-thaw cycles	Blood count processing  
+30244	Reticulocyte percentage acquisition route	Blood count processing  
+30242	Reticulocyte percentage acquisition time	Blood count processing  
+30243	Reticulocyte percentage device ID	Blood count processing  
+30241	Reticulocyte percentage freeze-thaw cycles	Blood count processing  
+30004	White blood cell (leukocyte) count acquisition route	Blood count processing  
+30002	White blood cell (leukocyte) count acquisition time	Blood count processing  
+30003	White blood cell (leukocyte) count device ID	Blood count processing  
+30001	White blood cell (leukocyte) count freeze-thaw cycles	Blood count processing  
+23000	1gG antigen for Herpes Simplex virus-1	Infectious Disease Antigens  
+23001	2mgG unique antigen for Herpes Simplex virus-2	Infectious Disease Antigens  
+23049	Antigen assay QC indicator	Infectious Disease Antigens  
+23048	Antigen assay date	Infectious Disease Antigens  
+23026	BK VP1 antigen for Human Polyomavirus BKV	Infectious Disease Antigens  
+23039	CagA antigen for Helicobacter pylori	Infectious Disease Antigens  
+23043	Catalase antigen for Helicobacter pylori	Infectious Disease Antigens  
+23018	Core antigen for Hepatitis C Virus	Infectious Disease Antigens  
+23030	E6 antigen for Human Papillomavirus type-16	Infectious Disease Antigens  
+23031	E7 antigen for Human Papillomavirus type-16	Infectious Disease Antigens  
+23006	EA-D antigen for Epstein-Barr Virus	Infectious Disease Antigens  
+23004	EBNA-1 antigen for Epstein-Barr Virus	Infectious Disease Antigens  
+23042	GroEL antigen for Helicobacter pylori	Infectious Disease Antigens  
+23016	HBc antigen for Hepatitis B Virus	Infectious Disease Antigens  
+23017	HBe antigen for Hepatitis B Virus	Infectious Disease Antigens  
+23025	HIV-1 env antigen for Human Immunodeficiency Virus	Infectious Disease Antigens  
+23024	HIV-1 gag antigen for Human Immunodeficiency Virus	Infectious Disease Antigens  
+23023	HTLV-1 env antigen for Human T-Lymphotropic Virus 1	Infectious Disease Antigens  
+23022	HTLV-1 gag antigen for Human T-Lymphotropic Virus 1	Infectious Disease Antigens  
+23010	IE1A antigen for Human Herpesvirus-6	Infectious Disease Antigens  
+23011	IE1B antigen for Human Herpesvirus-6	Infectious Disease Antigens  
+23027	JC VP1 antigen for Human Polyomavirus JCV	Infectious Disease Antigens  
+23015	K8.1 antigen for Kaposi's Sarcoma-Associated Herpesvirus	Infectious Disease Antigens  
+23029	L1 antigen for Human Papillomavirus type-16	Infectious Disease Antigens  
+23032	L1 antigen for Human Papillomavirus type-18	Infectious Disease Antigens  
+23014	LANA antigen for Kaposi's Sarcoma-Associated Herpesvirus	Infectious Disease Antigens  
+23028	MC VP1 antigen for Merkel Cell Polyomavirus	Infectious Disease Antigens  
+23019	NS3 antigen for Hepatitis C Virus	Infectious Disease Antigens  
+23041	OMP antigen for Helicobacter pylori	Infectious Disease Antigens  
+23037	PorB antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23013	U14 antigen for Human Herpesvirus-7	Infectious Disease Antigens  
+23044	UreA antigen for Helicobacter pylori	Infectious Disease Antigens  
+23003	VCA p18 antigen for Epstein-Barr Virus	Infectious Disease Antigens  
+23040	VacA antigen for Helicobacter pylori	Infectious Disease Antigens  
+23005	ZEBRA antigen for Epstein-Barr Virus	Infectious Disease Antigens  
+23002	gE / gI antigen for Varicella Zoster Virus	Infectious Disease Antigens  
+23034	momp A antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23033	momp D antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23012	p101 k antigen for Human Herpesvirus-6	Infectious Disease Antigens  
+23020	p22 antigen for Toxoplasma gondii	Infectious Disease Antigens  
+23038	pGP3 antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23009	pp 28 antigen for Human Cytomegalovirus	Infectious Disease Antigens  
+23008	pp 52 antigen for Human Cytomegalovirus	Infectious Disease Antigens  
+23007	pp150 Nter antigen for Human Cytomegalovirus	Infectious Disease Antigens  
+23021	sag1 antigen for Toxoplasma gondii	Infectious Disease Antigens  
+23035	tarp-D F1 antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23036	tarp-D F2 antigen for Chlamydia trachomatis	Infectious Disease Antigens  
+23065	BKV seropositivity for Human Polyomavirus BKV	Infectious Diseases  
+23070	C. trachomatis Definition I seropositivity for Chlamydia trachomatis	Infectious Diseases  
+23071	C. trachomatis Definition II seropositivity for Chlamydia trachomatis	Infectious Diseases  
+23054	CMV seropositivity for Human Cytomegalovirus	Infectious Diseases  
+23053	EBV seropositivity for Epstein-Barr Virus	Infectious Diseases  
+23073	H. pylori Definition I seropositivity for Helicobacter pylori	Infectious Diseases  
+23074	H. pylori Definition II seropositivity for Helicobacter pylori	Infectious Diseases  
+23060	HBV seropositivity for Hepatitis B Virus	Infectious Diseases  
+23061	HCV seropositivity for Hepatitis C Virus	Infectious Diseases  
+23055	HHV-6 overall seropositivity for Human Herpesvirus-6	Infectious Diseases  
+23056	HHV-6A seropositivity for Human Herpesvirus-6	Infectious Diseases  
+23057	HHV-6B seropositivity for Human Herpesvirus-6	Infectious Diseases  
+23058	HHV-7 seropositivity for Human Herpesvirus-7	Infectious Diseases  
+23064	HIV-1 seropositivity for Human Immunodeficiency Virus	Infectious Diseases  
+23068	HPV 16 Definition I seropositivity for Human Papillomavirus type-16	Infectious Diseases  
+23075	HPV 16 Definition II seropositivity for Human Papillomavirus type-16	Infectious Diseases  
+23069	HPV 18 seropositivity for Human Papillomavirus type-18	Infectious Diseases  
+23050	HSV-1 seropositivity for Herpes Simplex virus-1	Infectious Diseases  
+23051	HSV-2 seropositivity for Herpes Simplex virus-2	Infectious Diseases  
+23063	HTLV-1 seropositivity for Human T-Lymphotropic Virus 1	Infectious Diseases  
+23066	JCV seropositivity for Human Polyomavirus JCV	Infectious Diseases  
+23059	KSHV seropositivity for Kaposi's Sarcoma-Associated Herpesvirus	Infectious Diseases  
+23067	MCV seropositivity for Merkel Cell Polyomavirus	Infectious Diseases  
+23062	T. gondii seropositivity for Toxoplasma gondii	Infectious Diseases  
+23052	VZV seropositivity for Varicella Zoster Virus	Infectious Diseases  
+30510	Creatinine (enzymatic) in urine	Urine assays  
+30515	Creatinine (enzymatic) in urine result flag	Urine assays  
+30500	Microalbumin in urine	Urine assays  
+30505	Microalbumin in urine result flag	Urine assays  
+30520	Potassium in urine	Urine assays  
+30525	Potassium in urine result flag	Urine assays  
+30530	Sodium in urine	Urine assays  
+30535	Sodium in urine result flag	Urine assays  
+30512	Creatinine (enzymatic) in urine acquisition time	Urine processing  
+30513	Creatinine (enzymatic) in urine device ID	Urine processing  
+30502	Microalbumin in urine acquisition time	Urine processing  
+30503	Microalbumin in urine device ID	Urine processing  
+30522	Potassium in urine acquisition time	Urine processing  
+30523	Potassium in urine device ID	Urine processing  
+30532	Sodium in urine acquisition time	Urine processing  
+30533	Sodium in urine device ID	Urine processing  
