@@ -2,4 +2,4 @@
 analysis/compare_methods/*
 analysis/compare_subtypes/*
 
-utils/*
+output/
