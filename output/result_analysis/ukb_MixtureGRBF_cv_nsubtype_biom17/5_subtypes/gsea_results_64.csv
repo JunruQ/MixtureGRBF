@@ -1,0 +1,545 @@
+"Description",".sign","p.adjust","GeneRatio","Subtype"
+"immune system process","activated",3.3275e-07,0.350961538461538,1
+"signal transduction","activated",3.3275e-07,0.271460014673514,1
+"response to stimulus","activated",4.36825965685223e-07,0.296691568836713,1
+"signaling","activated",5.92955319775273e-07,0.263592567102546,1
+"cell communication","activated",9.21808928006174e-07,0.262688614540466,1
+"cell surface receptor signaling pathway","activated",4.95388333498814e-06,0.297265160523187,1
+"cellular response to stimulus","activated",5.53954381593672e-05,0.255115089514066,1
+"regulation of cellular process","activated",5.53954381593672e-05,0.239900249376559,1
+"cell adhesion","activated",6.24226122948216e-05,0.335604770017036,1
+"regulation of immune system process","activated",7.3641219149076e-05,0.301645338208409,1
+"regulation of biological process","activated",7.9697934465024e-05,0.238461538461538,1
+"blood vessel morphogenesis","activated",0.000128168072338872,0.456,1
+"response to biotic stimulus","activated",0.000137708036953363,0.303605313092979,1
+"defense response","activated",0.000217207997047469,0.306188925081433,1
+"response to external stimulus","activated",0.000217207997047469,0.302631578947368,1
+"angiogenesis","activated",0.000253718386146071,0.394736842105263,1
+"positive regulation of leukocyte migration","activated",0.000277031309526063,0.533333333333333,1
+"regulation of leukocyte migration","activated",0.000277031309526063,0.477477477477477,1
+"blood vessel development","activated",0.000277031309526063,0.43609022556391,1
+"negative regulation of multicellular organismal process","activated",0.000277031309526063,0.355437665782493,1
+"biological process involved in interspecies interaction between organisms","activated",0.000277031309526063,0.305799648506151,1
+"immune response","activated",0.000277031309526063,0.354992076069731,1
+"vasculature development","activated",0.000487723113222953,0.36,1
+"biological regulation","activated",0.000500710881682523,0.218940459446789,1
+"anatomical structure formation involved in morphogenesis","activated",0.000535616007580711,0.340659340659341,1
+"regulation of cell activation","activated",0.000621277878739661,0.354581673306773,1
+"response to other organism","activated",0.000648534622535216,0.300387596899225,1
+"tube morphogenesis","activated",0.000745878759935331,0.378737541528239,1
+"anatomical structure development","activated",0.000745878759935331,0.261345852895149,1
+"negative regulation of immune system process","activated",0.00103614919922425,0.355769230769231,1
+"response to external biotic stimulus","activated",0.00118606463716027,0.301158301158301,1
+"developmental process","activated",0.00118606463716027,0.257100149476831,1
+"chemotaxis","activated",0.00159252906740478,0.414141414141414,1
+"taxis","activated",0.00159252906740478,0.414141414141414,1
+"regulation of leukocyte activation","activated",0.00162636113375223,0.357142857142857,1
+"regulation of multicellular organismal process","activated",0.00170802526482867,0.285547785547786,1
+"regulation of cell adhesion","activated",0.00176182223903473,0.34640522875817,1
+"regulation of lymphocyte proliferation","activated",0.00203798614494904,0.372881355932203,1
+"multicellular organismal process","activated",0.00250173693718156,0.317893401015228,1
+"antimicrobial humoral response","activated",0.00254336740340184,0.6,1
+"regulation of multicellular organismal development","activated",0.00283296476114045,0.329411764705882,1
+"leukocyte migration","activated",0.00298973648185743,0.402173913043478,1
+"regulation of cell population proliferation","activated",0.00313338220808219,0.298892988929889,1
+"positive regulation of cell adhesion","activated",0.00321826001038261,0.296482412060302,1
+"cell migration","activated",0.00321826001038261,0.326043737574553,1
+"multicellular organism development","activated",0.00321826001038261,0.266416510318949,1
+"locomotion","activated",0.0034598154847551,0.329439252336449,1
+"humoral immune response","activated",0.00359929736783809,0.405405405405405,1
+"regulation of mononuclear cell proliferation","activated",0.0038311254269157,0.380165289256198,1
+"response to bacterium","activated",0.00400068061531668,0.345679012345679,1
+"chromosome segregation","suppressed",0.00451625083598707,0.431372549019608,1
+"cell motility","activated",0.00484857486324191,0.418738049713193,1
+"regulation of T cell proliferation","activated",0.004876505325081,0.387096774193548,1
+"leukocyte activation","activated",0.004876505325081,0.346260387811634,1
+"anatomical structure morphogenesis","activated",0.0049915761859619,0.288888888888889,1
+"cell population proliferation","activated",0.00643651720508738,0.267111853088481,1
+"negative regulation of cell adhesion","activated",0.00647319218893679,0.390625,1
+"defense response to other organism","activated",0.00653656388490137,0.302158273381295,1
+"cell chemotaxis","activated",0.00672053556613837,0.5,1
+"leukocyte chemotaxis","activated",0.00742345120607003,0.539130434782609,1
+"circulatory system development","activated",0.00744576823256792,0.399416909620991,1
+"chromosome organization","suppressed",0.00747796539287679,0.594594594594595,1
+"negative regulation of cell activation","activated",0.00747796539287679,0.394230769230769,1
+"negative regulation of cell population proliferation","activated",0.00758109100053259,0.303418803418803,1
+"tube development","activated",0.008027017772282,0.346590909090909,1
+"negative regulation of leukocyte cell-cell adhesion","activated",0.0082198767507479,0.447761194029851,1
+"T cell proliferation","activated",0.00876435863638297,0.37,1
+"defense response to symbiont","activated",0.0099912748529393,0.30958904109589,1
+"system development","activated",0.0104992722234745,0.26865671641791,1
+"regulation of leukocyte proliferation","activated",0.0118662456050804,0.373134328358209,1
+"negative regulation of T cell activation","activated",0.0121461340387741,0.442622950819672,1
+"negative regulation of lymphocyte activation","activated",0.0121461340387741,0.415584415584416,1
+"negative regulation of leukocyte activation","activated",0.0131774874150864,0.406593406593407,1
+"positive regulation of cell-cell adhesion","activated",0.0131774874150864,0.284615384615385,1
+"response to stress","activated",0.0131774874150864,0.262607040913416,1
+"positive regulation of biological process","activated",0.0137982279186865,0.249822064056939,1
+"lymphocyte proliferation","activated",0.0157835523579201,0.34375,1
+"tolerance induction","activated",0.019129586551773,0.769230769230769,1
+"regulation of lymphocyte activation","activated",0.0194054241968902,0.326424870466321,1
+"negative regulation of cell differentiation","activated",0.0211023143400023,0.392638036809816,1
+"regulation of osteoblast differentiation","activated",0.0221054778367564,0.58974358974359,1
+"mononuclear cell proliferation","activated",0.0221054778367564,0.345864661654135,1
+"regulation of cell motility","activated",0.0221054778367564,0.443526170798898,1
+"negative regulation of mononuclear cell proliferation","activated",0.022321250362904,0.46,1
+"negative regulation of lymphocyte proliferation","activated",0.022321250362904,0.46,1
+"positive regulation of cell activation","activated",0.0238982386375384,0.357142857142857,1
+"positive regulation of leukocyte chemotaxis","activated",0.0248954919329865,0.565217391304348,1
+"cartilage development","activated",0.0252002506058124,0.360655737704918,1
+"chondrocyte differentiation","activated",0.025749421662759,0.363636363636364,1
+"positive regulation of locomotion","activated",0.025749421662759,0.504201680672269,1
+"negative regulation of cell development","activated",0.026348927923821,0.325301204819277,1
+"regulation of leukocyte cell-cell adhesion","activated",0.026348927923821,0.33974358974359,1
+"osteoblast differentiation","activated",0.0268792795061621,0.507692307692308,1
+"regulation of response to stimulus","activated",0.0269388404734585,0.25374531835206,1
+"regulation of leukocyte chemotaxis","activated",0.0270887995776854,0.564516129032258,1
+"antimicrobial humoral immune response mediated by antimicrobial peptide","activated",0.0271090067795149,0.492957746478873,1
+"nuclear chromosome segregation","suppressed",0.0274139277671114,0.465116279069767,1
+"positive regulation of cell motility","activated",0.0274139277671114,0.510822510822511,1
+"cell activation","activated",0.0280288798622308,0.298329355608592,1
+"midgut development","suppressed",0.0281087635699945,0.5,1
+"morphogenesis of a branching structure","activated",0.0281087635699945,0.344262295081967,1
+"morphogenesis of a branching epithelium","activated",0.0281087635699945,0.344262295081967,1
+"myeloid leukocyte migration","activated",0.0283660214839391,0.496,1
+"positive regulation of leukocyte activation","activated",0.0283660214839391,0.354166666666667,1
+"regulation of cell migration","activated",0.0293154240661296,0.344632768361582,1
+"animal organ morphogenesis","activated",0.0301888806011335,0.333333333333333,1
+"negative regulation of cell-cell adhesion","activated",0.0302746843352432,0.395604395604396,1
+"negative regulation of leukocyte proliferation","activated",0.0304779347270235,0.471698113207547,1
+"skeletal system development","activated",0.0304779347270235,0.346456692913386,1
+"leukocyte cell-cell adhesion","activated",0.0304779347270235,0.331460674157303,1
+"regulation of locomotion","activated",0.0321236718898644,0.433862433862434,1
+"spindle assembly","suppressed",0.0327415736488396,0.55,1
+"negative regulation of T cell proliferation","activated",0.0344709685458098,0.476190476190476,1
+"cell surface receptor protein serine/threonine kinase signaling pathway","activated",0.0349189545109346,0.263636363636364,1
+"regulation of hemopoiesis","activated",0.0349189545109346,0.242424242424242,1
+"transforming growth factor beta receptor superfamily signaling pathway","activated",0.0351187949462755,0.25,1
+"connective tissue development","activated",0.0367747108620782,0.315789473684211,1
+"myeloid leukocyte activation","activated",0.0374189600721148,0.427350427350427,1
+"regulation of cell-cell adhesion","activated",0.0376846782322593,0.316326530612245,1
+"sister chromatid segregation","suppressed",0.0377109872266672,0.514285714285714,1
+"positive regulation of cellular process","activated",0.0380322275202421,0.25,1
+"defense response to bacterium","activated",0.0412956621220841,0.46551724137931,1
+"negative regulation of immune response","activated",0.0421998392549573,0.457831325301205,1
+"leukocyte proliferation","activated",0.0422385159310859,0.346666666666667,1
+"negative regulation of leukocyte differentiation","activated",0.0434688345948865,0.342857142857143,1
+"granulocyte migration","activated",0.0434688345948865,0.469135802469136,1
+"cytokine production","activated",0.0434688345948865,0.361486486486487,1
+"regulation of developmental process","activated",0.0435712773939304,0.286173633440514,1
+"negative regulation of hemopoiesis","activated",0.0452144430255019,0.342105263157895,1
+"positive regulation of cell migration","activated",0.0476848084449479,0.508771929824561,1
+"multi-multicellular organism process","activated",0.0495410232692184,0.445945945945946,1
+"cell killing","activated",0.0495410232692184,0.449152542372881,1
+"signal transduction","activated",4.54883922998523e-06,0.247982391782832,2
+"signaling","activated",1.87362911575741e-05,0.271163110805231,2
+"cell communication","activated",1.87362911575741e-05,0.240054869684499,2
+"response to stimulus","activated",4.37659637668123e-05,0.226254002134472,2
+"cell surface receptor signaling pathway","activated",5.71984970455382e-05,0.273483947681332,2
+"cellular response to stimulus","activated",0.000645830414635972,0.231457800511509,2
+"sulfur compound metabolic process","suppressed",0.000910287429884252,0.454545454545455,2
+"multicellular organismal process","activated",0.00110143626083551,0.213197969543147,2
+"ubiquitin-dependent protein catabolic process","suppressed",0.00183128932799796,0.571428571428571,2
+"modification-dependent protein catabolic process","suppressed",0.00183128932799796,0.564102564102564,2
+"modification-dependent macromolecule catabolic process","suppressed",0.00183128932799796,0.564102564102564,2
+"macroautophagy","suppressed",0.00185772716018796,0.591549295774648,2
+"positive regulation of leukocyte migration","activated",0.00249547007650998,0.466666666666667,2
+"anatomical structure development","activated",0.00249547007650998,0.225352112676056,2
+"regulation of cellular process","activated",0.00249547007650998,0.222942643391521,2
+"developmental process","activated",0.00251173447426248,0.224962630792227,2
+"immune system process","activated",0.00507711940551353,0.283653846153846,2
+"proteasome-mediated ubiquitin-dependent protein catabolic process","suppressed",0.00555423373233545,0.538461538461538,2
+"regulation of biological process","activated",0.00581019113525673,0.222115384615385,2
+"biological regulation","activated",0.00663287066718996,0.218471636193155,2
+"blood vessel development","activated",0.0082464855380794,0.342105263157895,2
+"blood vessel morphogenesis","activated",0.00839916747825057,0.352,2
+"angiogenesis","activated",0.0099179664314954,0.359649122807018,2
+"autophagy","suppressed",0.0114580589592532,0.517543859649123,2
+"process utilizing autophagic mechanism","suppressed",0.0114580589592532,0.517543859649123,2
+"cell cycle process","suppressed",0.0114580589592532,0.437810945273632,2
+"multicellular organism development","activated",0.0114580589592532,0.227954971857411,2
+"mitotic cell cycle process","suppressed",0.012356353949269,0.538461538461538,2
+"regulation of leukocyte migration","activated",0.0125486884076005,0.396396396396396,2
+"regulation of leukocyte activation","activated",0.0125486884076005,0.299107142857143,2
+"regulation of cyclin-dependent protein serine/threonine kinase activity","suppressed",0.0142321207963221,0.769230769230769,2
+"antimicrobial humoral response","activated",0.0142321207963221,0.470588235294118,2
+"negative regulation of immune system process","activated",0.0142321207963221,0.254807692307692,2
+"anatomical structure formation involved in morphogenesis","activated",0.0142321207963221,0.291208791208791,2
+"humoral immune response","activated",0.0153267090558073,0.398648648648649,2
+"positive regulation of vascular associated smooth muscle cell differentiation","suppressed",0.0243703221059408,0.666666666666667,2
+"vasculature development","activated",0.0243703221059408,0.341818181818182,2
+"negative regulation of multicellular organismal process","activated",0.0244039597812165,0.251989389920424,2
+"positive regulation of ubiquitin-dependent protein catabolic process","suppressed",0.0259969426707203,0.75,2
+"negative regulation of cell differentiation","activated",0.0259969426707203,0.269938650306748,2
+"chemotaxis","activated",0.0259969426707203,0.353535353535354,2
+"taxis","activated",0.0259969426707203,0.353535353535354,2
+"tube morphogenesis","activated",0.0259969426707203,0.332225913621262,2
+"cell adhesion","activated",0.0259969426707203,0.275979557069847,2
+"anatomical structure morphogenesis","activated",0.0259969426707203,0.254814814814815,2
+"post-translational protein modification","suppressed",0.0273023337741471,0.47,2
+"cartilage development","activated",0.0281266876008623,0.409836065573771,2
+"protein modification by small protein conjugation or removal","suppressed",0.0316789161417114,0.478260869565217,2
+"system development","activated",0.0324391177028787,0.228144989339019,2
+"regulation of ubiquitin-dependent protein catabolic process","suppressed",0.034555537556181,0.558823529411765,2
+"microtubule-based process","suppressed",0.0365291423061525,0.485074626865672,2
+"regulation of immune system process","activated",0.0427943653662666,0.274223034734918,2
+"mitotic cell cycle","suppressed",0.0430242847540278,0.5,2
+"negative regulation of BMP signaling pathway","activated",0.0444292656930261,0.35,2
+"proteasomal protein catabolic process","suppressed",0.0444292656930261,0.531645569620253,2
+"chromatin organization","suppressed",0.0445809662617227,0.410112359550562,2
+"circulatory system development","activated",0.0445809662617227,0.32069970845481,2
+"regulation of syncytium formation by plasma membrane fusion","activated",0.048807658545678,0.666666666666667,2
+"translation","suppressed",0.0494274263209174,0.434782608695652,2
+"signal transduction","activated",2.21566666666667e-07,0.285399853264857,3
+"signaling","activated",2.21566666666667e-07,0.278733654507915,3
+"cell communication","activated",2.21566666666667e-07,0.280521262002743,3
+"response to stimulus","activated",1.96389689156599e-05,0.271077908217716,3
+"cell surface receptor signaling pathway","activated",3.49706043251036e-05,0.288941736028537,3
+"cellular response to stimulus","activated",3.49706043251036e-05,0.267902813299233,3
+"angiogenesis","activated",6.57844933200215e-05,0.421052631578947,3
+"blood vessel development","activated",6.57844933200215e-05,0.368421052631579,3
+"anatomical structure formation involved in morphogenesis","activated",7.16415103577461e-05,0.362637362637363,3
+"anatomical structure development","activated",0.000192884119871328,0.295774647887324,3
+"blood vessel morphogenesis","activated",0.000270112420343462,0.368,3
+"cell adhesion","activated",0.000294764226366704,0.330494037478705,3
+"developmental process","activated",0.000372217346740823,0.289985052316891,3
+"vasculature development","activated",0.000938977755832715,0.36,3
+"tube morphogenesis","activated",0.00096449012134472,0.352159468438538,3
+"system development","activated",0.00096449012134472,0.376332622601279,3
+"multicellular organism development","activated",0.0012036116843971,0.366791744840525,3
+"anatomical structure morphogenesis","activated",0.00172311628447775,0.29037037037037,3
+"circulatory system development","activated",0.0020435486904924,0.36734693877551,3
+"antimicrobial humoral response","activated",0.00365164426314422,0.494117647058824,3
+"multicellular organismal process","activated",0.00433179079290637,0.307741116751269,3
+"regulation of cellular process","activated",0.00502015809920761,0.268329177057357,3
+"tube development","activated",0.00609312781727591,0.375,3
+"regulation of biological process","activated",0.00645796709104034,0.266826923076923,3
+"cell migration","activated",0.00887910909625868,0.347912524850895,3
+"regulation of cell population proliferation","activated",0.024946052229107,0.308118081180812,3
+"antimicrobial humoral immune response mediated by antimicrobial peptide","activated",0.0264959188547759,0.47887323943662,3
+"cell motility","activated",0.0293339493437204,0.340344168260038,3
+"positive regulation of fibrinolysis","suppressed",0.0342733880873682,0.75,3
+"cell population proliferation","activated",0.0342733880873682,0.273789649415693,3
+"biological regulation","activated",0.0342733880873682,0.26347866854196,3
+"regulation of leukocyte activation","activated",0.0355926398416152,0.3125,3
+"cell surface receptor protein serine/threonine kinase signaling pathway","activated",0.0375573354587716,0.409090909090909,3
+"immune system process","activated",0.0436601429507268,0.287259615384615,3
+"anatomical structure development","activated",4.8377197064466e-06,0.242566510172144,4
+"developmental process","activated",4.8377197064466e-06,0.238415545590433,4
+"system development","activated",4.40455557382196e-05,0.254797441364606,4
+"multicellular organism development","activated",6.37271896777154e-05,0.24953095684803,4
+"anatomical structure morphogenesis","activated",0.000100793890035732,0.262222222222222,4
+"cell communication","activated",0.000100793890035732,0.235253772290809,4
+"multicellular organismal process","activated",0.000121086297172231,0.230964467005076,4
+"anatomical structure formation involved in morphogenesis","activated",0.000133127365131843,0.266483516483516,4
+"signaling","activated",0.000142433932948186,0.234686854783207,4
+"cell surface receptor signaling pathway","activated",0.00014248498741369,0.282996432818074,4
+"signal transduction","activated",0.000342140450770606,0.236977256052825,4
+"cell adhesion","activated",0.00135124011693259,0.34412265758092,4
+"cellular catabolic process","suppressed",0.00584925749345657,0.308510638297872,4
+"blood vessel development","activated",0.00618626296509332,0.330827067669173,4
+"regulation of blood coagulation","suppressed",0.00686208833424186,0.523809523809524,4
+"regulation of body fluid levels","suppressed",0.00686208833424186,0.323943661971831,4
+"angiogenesis","activated",0.00686208833424186,0.289473684210526,4
+"blood vessel morphogenesis","activated",0.00686208833424186,0.284,4
+"enzyme-linked receptor protein signaling pathway","activated",0.00686208833424186,0.249240121580547,4
+"response to stimulus","activated",0.00686208833424186,0.234791889007471,4
+"tube morphogenesis","activated",0.00750199116116528,0.272425249169435,4
+"hemostasis","suppressed",0.00818604951146281,0.36283185840708,4
+"blood coagulation","suppressed",0.0104608374817042,0.363636363636364,4
+"coagulation","suppressed",0.0104608374817042,0.363636363636364,4
+"small molecule metabolic process","suppressed",0.0120225970264262,0.336842105263158,4
+"antimicrobial humoral response","activated",0.0142100196215391,0.529411764705882,4
+"negative regulation of blood coagulation","suppressed",0.0154298172733097,0.542857142857143,4
+"small molecule catabolic process","suppressed",0.0154298172733097,0.307692307692308,4
+"circulatory system development","activated",0.0154298172733097,0.309037900874636,4
+"animal organ development","activated",0.0154298172733097,0.248108925869894,4
+"regulation of hemostasis","suppressed",0.017786019458865,0.511627906976744,4
+"regulation of coagulation","suppressed",0.017786019458865,0.478260869565217,4
+"vasculature development","activated",0.017786019458865,0.327272727272727,4
+"negative regulation of wound healing","suppressed",0.0207501665261267,0.446808510638298,4
+"cell differentiation","activated",0.0207501665261267,0.23906083244397,4
+"cellular developmental process","activated",0.0207501665261267,0.23906083244397,4
+"tube development","activated",0.022212986068931,0.25,4
+"sulfur compound metabolic process","suppressed",0.0287265410854786,0.287878787878788,4
+"amino acid metabolic process","suppressed",0.0287265410854786,0.409090909090909,4
+"organic acid metabolic process","suppressed",0.0290956115464748,0.252525252525253,4
+"regulation of cell population proliferation","activated",0.0313677099548844,0.269372693726937,4
+"regulation of cellular process","activated",0.0313677099548844,0.251371571072319,4
+"regulation of biological process","activated",0.0313677099548844,0.250961538461538,4
+"monocarboxylic acid metabolic process","suppressed",0.0340613709652289,0.296875,4
+"negative regulation of coagulation","suppressed",0.0350978928025761,0.513513513513513,4
+"myofibril assembly","activated",0.0393652577139859,0.590909090909091,4
+"regulation of wound healing","suppressed",0.0393652577139859,0.376811594202899,4
+"regulation of cellular response to growth factor stimulus","activated",0.0393652577139859,0.330188679245283,4
+"animal organ morphogenesis","activated",0.0393652577139859,0.296296296296296,4
+"negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","activated",0.0420561353958832,0.319148936170213,4
+"retina vasculature development in camera-type eye","activated",0.0432885606571298,0.5,4
+"positive regulation of syncytium formation by plasma membrane fusion","activated",0.0432885606571298,0.857142857142857,4
+"muscle cell development","activated",0.0432885606571298,0.41304347826087,4
+"cell surface receptor protein serine/threonine kinase signaling pathway","activated",0.0432885606571298,0.245454545454545,4
+"cellular response to growth factor stimulus","activated",0.0432885606571298,0.233463035019455,4
+"wound healing","suppressed",0.0432885606571298,0.333333333333333,4
+"negative regulation of hemostasis","suppressed",0.0436437802889981,0.527777777777778,4
+"negative regulation of protein processing","suppressed",0.0449017270572096,0.6,4
+"response to growth factor","activated",0.0487274077711711,0.234848484848485,4
+"cell cycle","suppressed",6.665e-08,0.534351145038168,5
+"catabolic process","suppressed",6.665e-08,0.434470377019749,5
+"primary metabolic process","suppressed",6.665e-08,0.458862876254181,5
+"cell communication","activated",6.665e-08,0.260631001371742,5
+"metabolic process","suppressed",6.665e-08,0.391922639362912,5
+"signal transduction","activated",6.665e-08,0.264123257520176,5
+"signaling","activated",6.665e-08,0.259463179628355,5
+"developmental process","activated",6.665e-08,0.214499252615845,5
+"anatomical structure development","activated",6.665e-08,0.216744913928013,5
+"multicellular organismal process","activated",6.665e-08,0.255710659898477,5
+"nucleobase-containing compound metabolic process","suppressed",6.77403917265047e-08,0.487698986975398,5
+"amino acid metabolic process","suppressed",6.92561349522738e-08,0.606060606060606,5
+"cell surface receptor signaling pathway","activated",1.52605382230649e-07,0.292508917954816,5
+"carboxylic acid metabolic process","suppressed",3.96303546845844e-07,0.411458333333333,5
+"small molecule catabolic process","suppressed",6.96109397408601e-07,0.43956043956044,5
+"organic acid metabolic process","suppressed",7.59097069924611e-07,0.409090909090909,5
+"cell cycle process","suppressed",9.1304059915257e-07,0.562189054726368,5
+"small molecule metabolic process","suppressed",9.1304059915257e-07,0.342105263157895,5
+"oxoacid metabolic process","suppressed",1.2387159366047e-06,0.405128205128205,5
+"organelle organization","suppressed",2.96025306379459e-06,0.513745704467354,5
+"response to stimulus","activated",3.60154369408293e-06,0.225720384204909,5
+"mitotic cell cycle","suppressed",5.00893299684258e-06,0.552631578947368,5
+"system development","activated",8.16473967634916e-06,0.26226012793177,5
+"multicellular organism development","activated",1.21013808650552e-05,0.25797373358349,5
+"protein metabolic process","suppressed",2.61072890243667e-05,0.375141242937853,5
+"mitotic cell cycle process","suppressed",3.02834998008169e-05,0.561538461538462,5
+"cellular response to stimulus","activated",3.26257760144166e-05,0.233375959079284,5
+"regulation of cellular process","activated",3.8565779224536e-05,0.211970074812968,5
+"nucleobase-containing small molecule metabolic process","suppressed",5.13239622142383e-05,0.517985611510791,5
+"nucleoside phosphate metabolic process","suppressed",6.14095916394596e-05,0.522388059701492,5
+"anatomical structure formation involved in morphogenesis","activated",6.14095916394596e-05,0.258241758241758,5
+"cell adhesion","activated",6.14095916394596e-05,0.296422487223169,5
+"alpha-amino acid metabolic process","suppressed",8.85653073990269e-05,0.571428571428571,5
+"antimicrobial humoral response","activated",8.85653073990269e-05,0.447058823529412,5
+"protein catabolic process","suppressed",9.19779156331785e-05,0.480392156862745,5
+"regulation of cell cycle","suppressed",0.000112614128548749,0.513089005235602,5
+"anatomical structure morphogenesis","activated",0.000117249387722224,0.226666666666667,5
+"cellular catabolic process","suppressed",0.000159244397661982,0.457446808510638,5
+"regulation of biological process","activated",0.000182966150737383,0.215384615384615,5
+"organic acid catabolic process","suppressed",0.000184840876604756,0.45,5
+"carboxylic acid catabolic process","suppressed",0.000184840876604756,0.45,5
+"blood vessel development","activated",0.000184840876604756,0.266917293233083,5
+"translation","suppressed",0.000191818106583681,0.673913043478261,5
+"macromolecule catabolic process","suppressed",0.000255431063328365,0.452830188679245,5
+"L-amino acid metabolic process","suppressed",0.000260417464340565,0.585365853658537,5
+"organophosphate metabolic process","suppressed",0.000264117703690975,0.477157360406091,5
+"autophagy","suppressed",0.000306422335273177,0.666666666666667,5
+"process utilizing autophagic mechanism","suppressed",0.000306422335273177,0.666666666666667,5
+"ubiquitin-dependent protein catabolic process","suppressed",0.000319650139226884,0.545454545454545,5
+"angiogenesis","activated",0.00033292261753595,0.280701754385965,5
+"non-proteinogenic amino acid metabolic process","suppressed",0.000425250288896002,0.619047619047619,5
+"blood vessel morphogenesis","activated",0.000482654818847501,0.268,5
+"sulfur compound metabolic process","suppressed",0.000495500666035759,0.454545454545455,5
+"generation of precursor metabolites and energy","suppressed",0.000506267093314843,0.5,5
+"modification-dependent protein catabolic process","suppressed",0.00059148435631282,0.538461538461538,5
+"modification-dependent macromolecule catabolic process","suppressed",0.00059148435631282,0.538461538461538,5
+"vasculature development","activated",0.00059148435631282,0.261818181818182,5
+"tube morphogenesis","activated",0.000602410509967276,0.259136212624585,5
+"chromatin organization","suppressed",0.000655205150920077,0.51685393258427,5
+"biological regulation","activated",0.000891654068124584,0.212376933895921,5
+"phosphorus metabolic process","suppressed",0.00090359031933528,0.435897435897436,5
+"phosphate-containing compound metabolic process","suppressed",0.00090359031933528,0.435897435897436,5
+"enzyme-linked receptor protein signaling pathway","activated",0.00095147623824832,0.270516717325228,5
+"nucleic acid metabolic process","suppressed",0.00104451815347696,0.470187393526405,5
+"proteinogenic amino acid metabolic process","suppressed",0.00106431247351592,0.564102564102564,5
+"antibacterial humoral response","activated",0.00110660904222806,0.6,5
+"post-translational protein modification","suppressed",0.00110660904222806,0.64,5
+"DNA repair","suppressed",0.00120690710050434,0.647887323943662,5
+"humoral immune response","activated",0.00123764349324635,0.371621621621622,5
+"regulation of cell cycle process","suppressed",0.00138310106852398,0.548387096774194,5
+"biosynthetic process","suppressed",0.00151433735185668,0.393537696768848,5
+"nucleotide metabolic process","suppressed",0.00153636008870392,0.522935779816514,5
+"protein modification by small protein conjugation or removal","suppressed",0.00165140361440146,0.641304347826087,5
+"monocarboxylic acid metabolic process","suppressed",0.00186741314664163,0.390625,5
+"purine-containing compound metabolic process","suppressed",0.00192921060320562,0.513761467889908,5
+"chromosome organization","suppressed",0.00214106064574365,0.648648648648649,5
+"regulation of catabolic process","suppressed",0.00214106064574365,0.430555555555556,5
+"DNA damage response","suppressed",0.00224959997230524,0.611111111111111,5
+"circulatory system development","activated",0.00236167187785981,0.247813411078717,5
+"chromatin remodeling","suppressed",0.00238280677239121,0.509090909090909,5
+"cartilage development","activated",0.00245092680209622,0.442622950819672,5
+"proteasomal protein catabolic process","suppressed",0.00285291798423683,0.506329113924051,5
+"skeletal system development","activated",0.00294411262952261,0.283464566929134,5
+"nucleobase-containing compound biosynthetic process","suppressed",0.00297452198724307,0.443243243243243,5
+"regulation of ubiquitin-dependent protein catabolic process","suppressed",0.00311600315113123,0.617647058823529,5
+"intracellular transport","suppressed",0.00311600315113123,0.595555555555556,5
+"proteolysis involved in protein catabolic process","suppressed",0.00324549651487156,0.5,5
+"regulation of cell population proliferation","activated",0.00341430391939477,0.284132841328413,5
+"amino acid biosynthetic process","suppressed",0.00386052360805834,0.55,5
+"tube development","activated",0.00386052360805834,0.238636363636364,5
+"hydrogen peroxide metabolic process","suppressed",0.0040396631496153,0.684210526315789,5
+"macroautophagy","suppressed",0.0040899414719889,0.704225352112676,5
+"cell cycle phase transition","suppressed",0.00432036859004896,0.578313253012048,5
+"animal organ morphogenesis","activated",0.00445434111164155,0.259259259259259,5
+"cell differentiation","activated",0.00445434111164155,0.211312700106724,5
+"cellular developmental process","activated",0.00445434111164155,0.211312700106724,5
+"regulation of cell cycle phase transition","suppressed",0.00462397353397607,0.557142857142857,5
+"cellular response to toxic substance","suppressed",0.00491157821703218,0.432432432432432,5
+"protein deubiquitination","suppressed",0.00587453698901183,0.823529411764706,5
+"protein modification by small protein removal","suppressed",0.00587453698901183,0.823529411764706,5
+"negative regulation of proteasomal ubiquitin-dependent protein catabolic process","suppressed",0.00595024063452438,0.7,5
+"negative regulation of ubiquitin-dependent protein catabolic process","suppressed",0.00595024063452438,0.7,5
+"cellular detoxification","suppressed",0.0061773580922228,0.428571428571429,5
+"proteasome-mediated ubiquitin-dependent protein catabolic process","suppressed",0.0061773580922228,0.634615384615385,5
+"negative regulation of multicellular organismal process","activated",0.00641808005270786,0.305039787798409,5
+"macromolecule modification","suppressed",0.00657668090992381,0.391402714932127,5
+"amino acid catabolic process","suppressed",0.00660243766319816,0.580645161290323,5
+"RNA metabolic process","suppressed",0.00660243766319816,0.438223938223938,5
+"cell population proliferation","activated",0.00685922797896588,0.277128547579299,5
+"mitotic cell cycle phase transition","suppressed",0.007075987024336,0.617647058823529,5
+"chromosome segregation","suppressed",0.007087883614719,0.764705882352941,5
+"DNA metabolic process","suppressed",0.007087883614719,0.548611111111111,5
+"cell surface receptor protein serine/threonine kinase signaling pathway","activated",0.00715019220778389,0.309090909090909,5
+"protein modification process","suppressed",0.00715019220778389,0.5635103926097,5
+"animal organ development","activated",0.0074485595645129,0.258698940998487,5
+"pyridine-containing compound metabolic process","suppressed",0.00785816665972694,0.476190476190476,5
+"response to nerve growth factor","suppressed",0.00802068490711999,0.545454545454545,5
+"cellular response to nerve growth factor stimulus","suppressed",0.00802068490711999,0.545454545454545,5
+"axonal transport of mitochondrion","activated",0.00906285543798833,0.25,5
+"extracellular matrix organization","activated",0.00936983463232795,0.354838709677419,5
+"extracellular structure organization","activated",0.00936983463232795,0.354838709677419,5
+"external encapsulating structure organization","activated",0.00936983463232795,0.354838709677419,5
+"detoxification","suppressed",0.00984698175324412,0.405405405405405,5
+"double-strand break repair","suppressed",0.0111190416316856,0.777777777777778,5
+"alcohol metabolic process","suppressed",0.0116004584915073,0.308641975308642,5
+"regulation of keratinocyte proliferation","activated",0.0118167704133374,0.5,5
+"negative regulation of metabolic process","suppressed",0.0119230189071141,0.411992263056093,5
+"response to cadmium ion","suppressed",0.0120041288833045,0.416666666666667,5
+"ketone catabolic process","suppressed",0.0121578062798262,0.8,5
+"purine nucleotide metabolic process","suppressed",0.0122071908473694,0.521739130434783,5
+"nucleoside triphosphate metabolic process","suppressed",0.0125032355040852,0.5,5
+"regulation of protein metabolic process","suppressed",0.0125918483526866,0.363431151241535,5
+"positive regulation of cell population proliferation","activated",0.0127179867257943,0.304985337243402,5
+"ADP metabolic process","suppressed",0.0129177491825229,0.48,5
+"nucleotide catabolic process","suppressed",0.0131071341418649,0.452380952380952,5
+"regulation of the force of heart contraction","activated",0.0134313050008559,0.625,5
+"regulation of multicellular organismal process","activated",0.0136613702533038,0.255244755244755,5
+"connective tissue development","activated",0.0136769354259686,0.328947368421053,5
+"alpha-amino acid catabolic process","suppressed",0.0137134668611454,0.551724137931034,5
+"protein modification by small protein conjugation","suppressed",0.0137134668611454,0.620253164556962,5
+"organophosphate catabolic process","suppressed",0.0137134668611454,0.378787878787879,5
+"negative regulation of BMP signaling pathway","activated",0.0142103053568491,0.45,5
+"multivesicular body organization","suppressed",0.0150509172317172,0.888888888888889,5
+"multivesicular body assembly","suppressed",0.0150509172317172,0.888888888888889,5
+"mitotic cytokinesis","suppressed",0.0158420672302319,0.631578947368421,5
+"alpha-amino acid biosynthetic process","suppressed",0.016044243690106,0.5,5
+"cell migration","activated",0.0160676622917449,0.286282306163022,5
+"microtubule-based process","suppressed",0.0163584190894166,0.559701492537313,5
+"nucleoside phosphate catabolic process","suppressed",0.0167422529558472,0.434782608695652,5
+"regulation of translation","suppressed",0.0174750191117072,0.442622950819672,5
+"antimicrobial humoral immune response mediated by antimicrobial peptide","activated",0.0179541644802501,0.422535211267606,5
+"porphyrin-containing compound biosynthetic process","suppressed",0.0180430397054285,0.833333333333333,5
+"heme biosynthetic process","suppressed",0.0180430397054285,0.833333333333333,5
+"tetrapyrrole biosynthetic process","suppressed",0.0180430397054285,0.833333333333333,5
+"cell motility","activated",0.0189517804305385,0.281070745697897,5
+"ribonucleoside triphosphate metabolic process","suppressed",0.0191668479516156,0.489795918367347,5
+"purine ribonucleoside triphosphate metabolic process","suppressed",0.0191668479516156,0.489795918367347,5
+"negative regulation of protein metabolic process","suppressed",0.0195355589754908,0.457142857142857,5
+"nucleoside diphosphate metabolic process","suppressed",0.0195384560928657,0.454545454545455,5
+"negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","activated",0.0196133844733885,0.319148936170213,5
+"RNA processing","suppressed",0.0198432256442483,0.604938271604938,5
+"small molecule biosynthetic process","suppressed",0.0198432256442483,0.335616438356164,5
+"protein-containing complex organization","suppressed",0.0198432256442483,0.408227848101266,5
+"response to toxic substance","suppressed",0.0204405698899802,0.338028169014085,5
+"establishment of localization in cell","suppressed",0.0208498825537429,0.417142857142857,5
+"regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","activated",0.0220896720203725,0.3,5
+"tetrahydrobiopterin biosynthetic process","suppressed",0.0220896720203725,0.666666666666667,5
+"pteridine-containing compound biosynthetic process","suppressed",0.0220896720203725,0.666666666666667,5
+"tetrahydrobiopterin metabolic process","suppressed",0.0220896720203725,0.666666666666667,5
+"recognition of apoptotic cell","suppressed",0.022354723049159,0.6,5
+"multivesicular body sorting pathway","suppressed",0.0224679021967355,0.916666666666667,5
+"neuron projection regeneration","activated",0.0224679021967355,0.5,5
+"endosomal transport","suppressed",0.0224679021967355,0.696428571428571,5
+"transforming growth factor beta receptor superfamily signaling pathway","activated",0.0224679021967355,0.317307692307692,5
+"protein localization to organelle","suppressed",0.0224679021967355,0.584269662921348,5
+"pyridine nucleotide metabolic process","suppressed",0.022787074972451,0.463414634146341,5
+"nicotinamide nucleotide metabolic process","suppressed",0.022787074972451,0.463414634146341,5
+"cellular component assembly","suppressed",0.022787074972451,0.376344086021505,5
+"regulation of lymphocyte mediated immunity","activated",0.0230672369347473,0.439024390243902,5
+"purine nucleoside triphosphate metabolic process","suppressed",0.0234283907511616,0.490566037735849,5
+"response to BMP","activated",0.0237970271538744,0.471698113207547,5
+"cellular response to BMP stimulus","activated",0.0237970271538744,0.471698113207547,5
+"response to endogenous stimulus","activated",0.0238176518183049,0.232967032967033,5
+"pigment biosynthetic process","suppressed",0.0241839802961746,0.8,5
+"BMP signaling pathway","activated",0.0247604475963956,0.5,5
+"ATP metabolic process","suppressed",0.0247604475963956,0.511111111111111,5
+"membrane biogenesis","suppressed",0.0251741253815989,0.642857142857143,5
+"membrane assembly","suppressed",0.0251741253815989,0.642857142857143,5
+"regulation of proteasomal ubiquitin-dependent protein catabolic process","suppressed",0.0251849773617486,0.551724137931034,5
+"defense response to bacterium","activated",0.0252580740854536,0.25,5
+"protein ubiquitination","suppressed",0.0253629951084773,0.638888888888889,5
+"osteoblast differentiation","activated",0.0256814306543645,0.292307692307692,5
+"regulation of mitotic cell cycle phase transition","suppressed",0.0258044252461058,0.592592592592593,5
+"aldehyde catabolic process","suppressed",0.0268780651437969,0.8,5
+"proteolysis","suppressed",0.0270691913113894,0.387640449438202,5
+"nucleic acid biosynthetic process","suppressed",0.0276520340949589,0.465069860279441,5
+"aldehyde metabolic process","suppressed",0.0278471814322023,0.5,5
+"lymphocyte mediated immunity","activated",0.0279432884792085,0.384615384615385,5
+"negative regulation of proteasomal protein catabolic process","suppressed",0.0280948448973958,0.615384615384615,5
+"immune system process","activated",0.0299344590394264,0.259615384615385,5
+"immunological memory process","activated",0.0304037746457287,0.75,5
+"L-amino acid catabolic process","suppressed",0.0306754497719904,0.583333333333333,5
+"interleukin-10 production","activated",0.0313604448377024,0.516129032258065,5
+"regulation of interleukin-10 production","activated",0.0313604448377024,0.516129032258065,5
+"RNA biosynthetic process","suppressed",0.0314499140231918,0.460905349794239,5
+"post-transcriptional regulation of gene expression","suppressed",0.031885411457042,0.430232558139535,5
+"telomere maintenance","suppressed",0.0319080371396821,0.772727272727273,5
+"telomere organization","suppressed",0.0319080371396821,0.772727272727273,5
+"cellular component assembly involved in morphogenesis","activated",0.0319080371396821,0.459459459459459,5
+"cellular anatomical entity morphogenesis","activated",0.0319080371396821,0.459459459459459,5
+"negative regulation of immune system process","activated",0.0333977906316099,0.322115384615385,5
+"microtubule cytoskeleton organization","suppressed",0.0337629459864314,0.701030927835051,5
+"response to bacterium","activated",0.0337629459864314,0.213991769547325,5
+"cellular component biogenesis","suppressed",0.0350747927583726,0.382198952879581,5
+"neutrophil mediated cytotoxicity","suppressed",0.0351987958693994,0.8,5
+"neutrophil-mediated killing of symbiont cell","suppressed",0.0351987958693994,0.8,5
+"establishment of protein localization","suppressed",0.0351987958693994,0.352409638554217,5
+"post-Golgi vesicle-mediated transport","suppressed",0.0356164986294608,0.789473684210526,5
+"proteinogenic amino acid biosynthetic process","suppressed",0.0360467920904123,0.5,5
+"purine nucleoside diphosphate metabolic process","suppressed",0.036126247090281,0.444444444444444,5
+"purine ribonucleoside diphosphate metabolic process","suppressed",0.036126247090281,0.444444444444444,5
+"nuclear chromosome segregation","suppressed",0.0362619686645239,0.790697674418605,5
+"negative regulation of macromolecule metabolic process","suppressed",0.0380775156842552,0.346153846153846,5
+"energy derivation by oxidation of organic compounds","suppressed",0.0381670240460217,0.5,5
+"negative regulation of cellular response to growth factor stimulus","activated",0.0383061927987451,0.263157894736842,5
+"nucleobase-containing compound catabolic process","suppressed",0.0393719685496667,0.397959183673469,5
+"establishment of protein localization to membrane","suppressed",0.0396363699311825,0.666666666666667,5
+"vesicle-mediated transport in synapse","suppressed",0.0399086140327625,0.535714285714286,5
+"tissue development","activated",0.0399086140327625,0.210989010989011,5
+"positive regulation of leukocyte activation","activated",0.0400416196577907,0.236111111111111,5
+"synaptic vesicle cycle","suppressed",0.0400679309484663,0.551020408163265,5
+"regulation of adaptive immune response","activated",0.0400679309484663,0.395348837209302,5
+"cytokinetic process","suppressed",0.0402013392132696,0.933333333333333,5
+"regulation of DNA repair","suppressed",0.0407198010287129,0.733333333333333,5
+"endosome transport via multivesicular body sorting pathway","suppressed",0.0414575588429559,0.9,5
+"translational initiation","suppressed",0.0414575588429559,0.774193548387097,5
+"keratinocyte proliferation","activated",0.0414923349302681,0.571428571428571,5
+"chondrocyte differentiation","activated",0.0415016679223441,0.393939393939394,5
+"tongue development","suppressed",0.0415461874993882,0.666666666666667,5
+"ribonucleoside diphosphate metabolic process","suppressed",0.0418422303907782,0.4375,5
+"protein-containing complex assembly","suppressed",0.0422582443562951,0.411347517730496,5
+"negative regulation of developmental process","activated",0.0427963224457024,0.290196078431373,5
+"glycolytic process","suppressed",0.0439097658804999,0.454545454545455,5
+"pyridine nucleotide catabolic process","suppressed",0.0439097658804999,0.454545454545455,5
+"pyridine-containing compound catabolic process","suppressed",0.0439097658804999,0.454545454545455,5
+"regulation of acrosome reaction","activated",0.0445219597036797,0.375,5
+"positive regulation of peptidyl-serine phosphorylation","suppressed",0.0445219597036797,0.631578947368421,5
+"multi-multicellular organism process","activated",0.0445219597036797,0.324324324324324,5
+"regeneration","activated",0.0445219597036797,0.307692307692308,5
+"regulation of leukocyte activation","activated",0.0445219597036797,0.316964285714286,5
+"regulation of developmental process","activated",0.0445219597036797,0.262057877813505,5
+"myofibril assembly","activated",0.0448946861647048,0.545454545454545,5
+"regulation of T cell activation","activated",0.0450594648760913,0.326797385620915,5
+"electron transport chain","suppressed",0.0452925161300189,0.666666666666667,5
+"pyruvate metabolic process","suppressed",0.0478771801351992,0.416666666666667,5
+"ribonucleoprotein complex biogenesis","suppressed",0.0478839331997067,0.612903225806452,5
+"methylglyoxal metabolic process","suppressed",0.0482471767304972,0.666666666666667,5
+"aromatic amino acid metabolic process","suppressed",0.0487211175628203,0.75,5
+"Golgi to plasma membrane transport","suppressed",0.0487211175628203,0.9,5
+"glycine biosynthetic process","suppressed",0.0487211175628203,0.666666666666667,5

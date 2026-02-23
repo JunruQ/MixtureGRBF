@@ -1,19 +1,10 @@
 function [subtype_stage, mdl, options, train_data, test_data] = ...
     run_algo(dataset_name, method_name, options)
-%RUN_ALGO Summary of this function goes here
-%   Detailed explanation goes here
-% YZ: I changed the interface of this function such that 'dataset_name' and
-% 'method_name' are both input variables. In this way, we can call this function
-% with different data. This will enable running multiple datasets
-% simultaneously when logging into the server with multiple sessions (or use tmux), i.e.
-% in each each session, call 'run_algo' with a different dataset.
 
 addpath(genpath('mixtureGRBF'));
 addpath(genpath('utils'));
 addpath(genpath('analysis'));
 
-
-% YZ: I changed the code up to 'addpath'
 if nargin < 3
     options = [];
 end
@@ -56,8 +47,7 @@ options.dataset_name = dataset_name;
 switch dataset_name
     case 'ukb'
         options.input_file_name = 'ukb/ukb_covreg1_trans1_nanf1_biom17.csv';
-        % options = insert_param_when_absent(options, 'data_split', 'baseline');
-        options = insert_param_when_absent(options, 'data_split', 'cross_site'); % Junru: When case is site_validation, we split the data in training and testing.
+        options = insert_param_when_absent(options, 'data_split', 'baseline'); % Junru: When case is site_validation, we split the data in training and testing.
         options = insert_param_when_absent(options, 'group_sel', false);
         options = insert_param_when_absent(options, 'stagsel', false);
         options = insert_param_when_absent(options, 'diagnosis_sel', false);
